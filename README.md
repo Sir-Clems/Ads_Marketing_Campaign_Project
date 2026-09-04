@@ -28,7 +28,7 @@ Create a single view of advertising performance that helps a marketing team:
 | Source | Description |
 |---|---|
 |[Facebook Ads csv](data_source/01_facebook_ads.csv) | Facebook campaign performance export |
-|[Google Ads Campaign csv](data_source/02_google_ads.csv) | Google Ads campaign performance export |
+| [Google Ads Campaign csv](data_source/02_google_ads.csv) | Google Ads campaign performance export |
 |[Tiktok Ads Campaign csv](data_source/03_tiktok_ads.csv) | TikTok campaign performance export |
 
 Each extract contains channel campaign-performance records which are standardized into a common reporting structure.

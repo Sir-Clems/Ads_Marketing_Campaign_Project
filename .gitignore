@@ -1,2 +1,4 @@
 # Ignore all raw data CSV files in the data source folder
-data_source/*.csv
+#data_source/*.csv
+
+data_source/01_facebook_ads.csv data_source/02_google_ads.csv data_source/03_tiktok_ads.csv
