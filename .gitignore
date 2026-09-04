@@ -1,0 +1,2 @@
+# Ignore all raw data CSV files in the data source folder
+data_source/*.csv
